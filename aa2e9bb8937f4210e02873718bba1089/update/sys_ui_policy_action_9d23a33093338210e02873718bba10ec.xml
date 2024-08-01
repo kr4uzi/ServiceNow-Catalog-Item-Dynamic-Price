@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="INSERT_OR_UPDATE">
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field>x_376096_scp_price_recurring_script</field>
+        <field_message/>
+        <field_message_type>none</field_message_type>
+        <mandatory>ignore</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>markus.kraus</sys_created_by>
+        <sys_created_on>2024-08-01 14:51:06</sys_created_on>
+        <sys_id>9d23a33093338210e02873718bba10ec</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_376096_scp_price_recurring_script</sys_name>
+        <sys_package display_value="Service Catalog+ Dynamic Price" source="x_376096_scp_price">aa2e9bb8937f4210e02873718bba1089</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Service Catalog+ Dynamic Price">aa2e9bb8937f4210e02873718bba1089</sys_scope>
+        <sys_update_name>sys_ui_policy_action_9d23a33093338210e02873718bba10ec</sys_update_name>
+        <sys_updated_by>markus.kraus</sys_updated_by>
+        <sys_updated_on>2024-08-01 14:51:06</sys_updated_on>
+        <table>sc_cat_item</table>
+        <ui_policy display_value="SC+ Dynamic Price - Use Price (recurring) Script">c3036bfc93ff4210e02873718bba1007</ui_policy>
+        <value/>
+        <value_action>ignore</value_action>
+        <visible>true</visible>
+    </sys_ui_policy_action>
+    <sys_translated_text action="delete_multiple" query="documentkey=9d23a33093338210e02873718bba10ec"/>
+</record_update>
